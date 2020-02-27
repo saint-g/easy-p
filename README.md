@@ -8,4 +8,6 @@
 <body>
   <h1> About me</h1>
   
-  <h3>My hobbies <
+  <h3>My hobbies </h3>
+  <ul>
+  
